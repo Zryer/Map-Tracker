@@ -1,8 +1,9 @@
+/* This screws up the map 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box; 
-}
+} */
 
 #root {
   height: 100vh;
@@ -13,6 +14,7 @@
 
 }
 
-.leaftlet-container {
+.leaflet-container {
+  width: 100%;
   height: 100vh;
 }
